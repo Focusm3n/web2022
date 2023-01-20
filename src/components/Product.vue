@@ -1,6 +1,6 @@
 <template>
     <div class="product-item">
-        <router-link class="product-item__img-wrap" to="/product/1">
+        <router-link class="product-item__img-wrap" to="/product">
             <img src="images/products/1.jpg">
             <div class="product-item__info">
                 <span>
